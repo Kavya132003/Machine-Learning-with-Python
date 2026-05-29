@@ -1,0 +1,6 @@
+sid,sname,emialid,address,phoneno
+1,priya,priya@gmail.com,dvg,09876
+2,karthik,karthik@gmail.com,blr,12345
+3,karan,,msr,34567
+
+
